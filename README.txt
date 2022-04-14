@@ -28,10 +28,3 @@ Step 5 - If you want to apply transfer learning, then after the neural network i
 	   entire model's parameters along with its architecture can be later imported for similar problems 
 	   and can be used to reduce the computation time
 
-	Accuracy(Training)      Accuracy(Val/test dataset)	Inference Time 
-
-CPU       91.304348	              73.043478 		  64 min
-
-GPU	  93.043478                   69.565217                   43 min
-
-TPU       95.458937                   73.913043                   57 min
