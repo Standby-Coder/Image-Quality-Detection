@@ -10,11 +10,11 @@ Steps to get the program running -
 
 Step 1 - Install the required python packages listed in `requirements.txt` using pip
 
-	`pip install -r requirements.txt`
+	```pip install -r requirements.txt```
 
 Step 2 - Run the `main.py` script
 
-	`python main.py`
+	```python main.py```
 
 Implementation Technique - Focal Measure Estimates are calculated, then those are run through some models
 
@@ -41,11 +41,11 @@ Models through which the focal measure estimates are fed to
 
 List to be implemented/Things which have to be improved
 
-- [] Come up with a better version of this markdown
-- [] Implement more focal measure estimates like DCT Energy Ratio, and such, and to improve accuracy
-- [] Ensemble the current models and then in future implement more models and add to this ensemble
-- [] Reduce the number of times images are opened in `feature_creation.py`
-- [] \(Optional) Implement Multi-Threading in `feature_creation.py` (:thinking::thinking::thinking:)
+- [ ] Come up with a better version of this markdown
+- [ ] Implement more focal measure estimates like DCT Energy Ratio, and such, and to improve accuracy
+- [ ] Ensemble the current models and then in future implement more models and add to this ensemble
+- [ ] Reduce the number of times images are opened in `feature_creation.py`
+- [ ] \(Optional) Implement Multi-Threading in `feature_creation.py` (:thinking::thinking::thinking:)
 
 ## v1.0
 
