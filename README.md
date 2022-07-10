@@ -10,11 +10,15 @@ Steps to get the program running -
 
 Step 1 - Install the required python packages listed in `requirements.txt` using pip
 
-	```pip install -r requirements.txt```
+	```
+	pip install -r requirements.txt
+	```
 
 Step 2 - Run the `main.py` script
 
-	```python main.py```
+	```
+	python main.py
+	```
 
 Implementation Technique - Focal Measure Estimates are calculated, then those are run through some models
 
