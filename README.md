@@ -1,6 +1,6 @@
-<h1>Image Quality Detection</h1> 
+# Image Quality Detection
 
-<h2>v2.0</h2>
+## v2.0
 
 The given folder contains a bunch of python scripts which covers the entire implementation
 
@@ -47,7 +47,7 @@ List to be implemented/Things which have to be improved
 - [] Reduce the number of times images are opened in `feature_creation.py`
 - [] \(Optional) Implement Multi-Threading in `feature_creation.py` (:thinking::thinking::thinking:)
 
-<h2>v1.0</h2>
+## v1.0
 
 Hi there!
 
@@ -66,7 +66,7 @@ Step 2 - Open the notebook. The libraries required are Numpy, Pandas, Seaborn, M
 	   	Some of these libraries are already included as part of the Python Installation. Others such as 
         PyTorch needs to be installed seperately.We can use "pip" command to get these libraries
 
-    !pip install "torchmetrics" "matplotlib" "torch" "seaborn" "transformers" "opencv-python" "imutils" "torchvision" "Pillow" 
+    `!pip install "torchmetrics" "matplotlib" "torch" "seaborn" "transformers" "opencv-python" "imutils" "torchvision" "Pillow"` 
 
 Step 3 - You need to update the filepath of the dataset according to where the wget command
         downloads the dataset.
